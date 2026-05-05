@@ -207,4 +207,4 @@ const styles = StyleSheet.create({
   offline: { color: '#AAA', textAlign: 'center', marginTop: 50, fontSize: 18 },
   infoText: { color: '#FFF', fontSize: 16, marginVertical: 5 },
   link: { color: '#FF6B00', fontSize: 20, marginTop: 10, textDecorationLine: 'underline' },
-});
+}); 
