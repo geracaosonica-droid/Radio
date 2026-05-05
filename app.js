@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import { Audio } from 'expo-av';
 import { WebView } from 'react-native-webview';
-
+const RENDER_URL = 'https://geracao-sonica.onrender.com';
 const Tab = createBottomTabNavigator();
 const RENDER_URL = 'https://SUA_URL_AQUI.onrender.com';
 
