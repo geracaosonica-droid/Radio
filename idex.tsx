@@ -43,4 +43,4 @@ const styles = StyleSheet.create({
   button: { backgroundColor: "#ff3366", paddingVertical: 14, paddingHorizontal: 30, borderRadius: 40, marginVertical: 8, width: "80%", alignItems: "center" },
   liveButton: { backgroundColor: "#cc0000" },
   buttonText: { color: "#fff", fontSize: 18, fontWeight: "600" }
-});
+}); 
