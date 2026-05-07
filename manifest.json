@@ -1,0 +1,21 @@
+{
+  "name": "Geração Sônica - Rádio 24h",
+  "short_name": "Geração Sônica",
+  "description": "A nova era da música brasileira",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0524",
+  "theme_color": "#9D00FF",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
